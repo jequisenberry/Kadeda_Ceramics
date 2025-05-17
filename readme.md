@@ -9,8 +9,8 @@ A responsive HTML email invoice template - portfolio project.
 5. License
 6. Contact
 
-## Overview
-This project features a responsive HTML email template designed to showcase a professional sales invoice for the mock company, Kadeda Ceramics. It includes a design optimized for consistent rendering across major email clients and devices. With a clean aesthetic and user-friendly experience, it adheres to best practices in HTML email design.
+## 1. Overview
+This project features a responsive HTML email template designed to showcase a professional sales invoice for the mock company, Kadeda Ceramics. It includes a design optimized for consistent rendering across major email clients and devices. With a clean aesthetic and user-friendly experience, that adheres to best practices in HTML email design.
 
 ## 2. Features
 - Cross-Client Compatibility: Optimized for consistent rendering across major email clients.
@@ -38,4 +38,4 @@ Planned updates include:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 6. Contact
-Maintained by Jason Quisenberry. For inquiries or feedback, please email your.email@example.com.
+Maintained by Jason Quisenberry. For inquiries or feedback, please email me at: jason.quisenberry@proton.me
