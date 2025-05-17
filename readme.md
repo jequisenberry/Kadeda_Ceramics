@@ -38,8 +38,4 @@ Planned updates include:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 6. Contact
-<<<<<<< HEAD
 Maintained by Jason Quisenberry. For inquiries or feedback, please email me at: jason.quisenberry@proton.me
-=======
-Maintained by Jason Quisenberry. For inquiries or feedback, please email at: jason.quisenberry@proton.me.
->>>>>>> 29917afd02fb94187d92faa36b22160a967aa5e7
